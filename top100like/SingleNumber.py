@@ -1,4 +1,6 @@
 class Solution(object):
+
+    # 使用字典dict求解
     def singleNumber(self, nums):
         """
         :type nums: List[int]
@@ -13,3 +15,16 @@ class Solution(object):
         for k, v in a.iteritems():
             if v == 1:
                 return k
+
+    # 利用求和
+    def singleNumber(self, nums):
+        return 2 * sum(set(nums)) - sum(nums)
+
+
+    # 利用异或操作的性质 妙
+    def singleNumber(self, nums):
+        a = 0
+        for i in nums:
+            a ^= i
+
+        return a

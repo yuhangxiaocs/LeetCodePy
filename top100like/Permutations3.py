@@ -18,4 +18,4 @@ class Solution(object):
 
 
 if __name__ == '__main__':
-    print(Solution().permute(['a', 'b', [1]]))
+    print(Solution().permute(['a', 'a', 'a']))

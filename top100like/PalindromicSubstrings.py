@@ -1,16 +1,17 @@
+class Solution(object):
 
-
-class Solution:
-
-    def manacher(self, s):
+    # Manacher 99.34% 33.33%
+    def countSubstrings(self, s):
+        """
+        :type s: str
+        :rtype: int
+        """
         s = '#' + "#".join(s) + '#'
-        s = list(s)
         n = len(s)
+        p = [0] * n
 
-        p = [1] * n
-
+        # 初始化 其实只要R初始对了就行了
         C, R, rad = 0, -1, 0
-        maxR, maxC = -1, -1
         for i in range(n):
             if i <= R:
                 rad = min(p[2 * C - i], R - i)
@@ -21,25 +22,20 @@ class Solution:
             p[i] = rad
 
             if i + rad > R:
-                R = i + rad
-                C = i
+                R, C = i + rad, i
 
-                if rad > maxR:
-                    maxR = rad
-                    maxC = C
         res = 0
         for i in range(n):
+            # 奇数偶数分开处理
             if i & 1:
                 res += (p[i] + 1) // 2
             else:
                 res += p[i] // 2
 
-        print(res)
-
-        print(s)
-        print(p)
-
+        return res
 
 
 if __name__ == '__main__':
-    Solution().manacher("abc")
+    s = Solution()
+
+    print(s.countSubstrings("xiao"))

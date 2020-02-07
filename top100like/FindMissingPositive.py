@@ -2,6 +2,10 @@ import bisect
 
 
 class Solution(object):
+    '''
+        先排序 再从1开始向上找
+    '''
+
     # 95.98%  55.88%
     def firstMissingPositive(self, nums):
         """

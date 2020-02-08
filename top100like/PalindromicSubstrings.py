@@ -10,7 +10,6 @@ class Solution(object):
         n = len(s)
         p = [0] * n
 
-        # 初始化 其实只要R初始对了就行了
         C, R, rad = 0, -1, 0
         for i in range(n):
             if i <= R:
@@ -31,11 +30,11 @@ class Solution(object):
                 res += (p[i] + 1) // 2
             else:
                 res += p[i] // 2
-
+        print(p)
         return res
 
 
 if __name__ == '__main__':
     s = Solution()
 
-    print(s.countSubstrings("xiao"))
+    print(s.countSubstrings("aba"))

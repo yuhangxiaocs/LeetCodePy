@@ -1,6 +1,6 @@
 class Solution(object):
     '''
-        python的set是hash set
+        python的set是hash set，而set要计算hash值，所以要求元素是不可变对象，list就不行，可以用元组
     '''
 
     def longestConsecutive(self, nums):

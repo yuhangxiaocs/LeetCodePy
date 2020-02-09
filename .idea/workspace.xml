@@ -2,12 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2246ac7a-7b82-4885-b0c7-6819bc008163" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/top100like/LRUCache.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/top100like/LongestConsecutiveSequence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/top100like/NextPermutation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/top100like/NumberofIslands.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array/TwoSum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array/TwoSum2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linked_list/Middle_of_the_LinkedList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/top100like/3Sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/top100like/CoinChange.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/top100like/Intersection_of_TwoLinkedLists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/top100like/Intersection_of_TwoLinkedLists2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/top100like/PalindromeLinkedList.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/top100like/PalindromicSubstrings.py" beforeDir="false" afterPath="$PROJECT_DIR$/top100like/PalindromicSubstrings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/top100like/LongestConsecutiveSequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/top100like/LongestConsecutiveSequence.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,7 +31,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="92" />
+          <entry key="py" value="101" />
           <entry key="pyi" value="2" />
           <entry key="txt" value="1" />
         </counts>
@@ -35,60 +39,27 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="92" />
+          <entry key="Python" value="101" />
           <entry key="PythonStub" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="18" />
-          <entry key="py" value="31810" />
+          <entry key="py" value="33027" />
           <entry key="txt" value="101" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="119" />
-          <entry key="Python" value="31810" />
+          <entry key="Python" value="33027" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/top100like/TopKFrequentElements.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="11" column="41" lean-forward="true" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
-              <folding>
-                <element signature="e#0#12#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/top100like/PalindromicSubstrings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="222">
-              <caret line="39" column="32" selection-start-line="39" selection-start-column="32" selection-end-line="39" selection-end-column="32" />
-              <folding>
-                <marker date="1581096290241" expanded="true" signature="23:29" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/top100like/NextPermutation.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="34" column="14" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/top100like/LRUCache.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -111,47 +82,74 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/top100like/3Sum.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/array/TwoSum.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="34" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/array/TwoSum2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/top100like/CoinChange.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/linked_list/Middle_of_the_LinkedList.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="117">
+              <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/top100like/PalindromeLinkedList.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/top100like/Intersection_of_TwoLinkedLists.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/top100like/LongestConsecutiveSequence.py">
+        <entry file="file://$PROJECT_DIR$/top100like/Intersection_of_TwoLinkedLists2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="267">
-              <caret line="31" column="46" lean-forward="true" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Library/Caches/PyCharmEdu2018.2/python_stubs/1995955354/_collections.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="109">
-              <caret line="134" column="49" lean-forward="true" selection-start-line="134" selection-start-column="49" selection-end-line="134" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/top100like/RotateImage.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="395">
-              <caret line="33" column="16" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file:///anaconda3/lib/python3.6/heapq.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="167">
-              <caret line="536" column="22" lean-forward="true" selection-start-line="536" selection-start-column="22" selection-end-line="536" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Library/Caches/PyCharmEdu2018.2/python_stubs/1995955354/builtins.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="310" column="4" selection-start-line="310" selection-start-column="4" selection-end-line="310" selection-end-column="4" />
+            <state relative-caret-position="-93">
+              <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -177,15 +175,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/top100like/GenerateParentheses.py" />
-        <option value="$PROJECT_DIR$/top100like/MajorityElement.py" />
-        <option value="$PROJECT_DIR$/top100like/SymmetricTree.py" />
-        <option value="$PROJECT_DIR$/top100like/test.py" />
-        <option value="$PROJECT_DIR$/top100like/MedianofTwoSortedArrays.py" />
-        <option value="$PROJECT_DIR$/DataStructure/PriorityQueue.py" />
-        <option value="$PROJECT_DIR$/DataStructure/BinarySearchTree.py" />
-        <option value="$PROJECT_DIR$/dp/StoneGame.py" />
-        <option value="$PROJECT_DIR$/top100like/DiameterofBinaryTree.py" />
         <option value="$PROJECT_DIR$/others/BuyMasks.py" />
         <option value="$PROJECT_DIR$/python_features.py" />
         <option value="$PROJECT_DIR$/python/StarredOperator.py" />
@@ -228,6 +217,15 @@
         <option value="$PROJECT_DIR$/top100like/NumberofIslands.py" />
         <option value="$PROJECT_DIR$/top100like/Longest ConsecutiveSequence.py" />
         <option value="$PROJECT_DIR$/top100like/LongestConsecutiveSequence.py" />
+        <option value="$PROJECT_DIR$/top100like/3Sum.py" />
+        <option value="$PROJECT_DIR$/array/TwoSum.py" />
+        <option value="$PROJECT_DIR$/array/TwoSum2.py" />
+        <option value="$PROJECT_DIR$/top100like/CoinChange.py" />
+        <option value="$PROJECT_DIR$/linked_list.py" />
+        <option value="$PROJECT_DIR$/linked_list/Middle_of_the_LinkedList.py" />
+        <option value="$PROJECT_DIR$/top100like/PalindromeLinkedList.py" />
+        <option value="$PROJECT_DIR$/top100like/Intersection_of_TwoLinkedLists.py" />
+        <option value="$PROJECT_DIR$/top100like/Intersection_of_TwoLinkedLists2.py" />
       </list>
     </option>
   </component>
@@ -255,7 +253,7 @@
             <path>
               <item name="LeetCodePy" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCodePy" type="462c0819:PsiDirectoryNode" />
-              <item name="DataStructure" type="462c0819:PsiDirectoryNode" />
+              <item name="array" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCodePy" type="b2602c69:ProjectViewProjectNode" />
@@ -290,8 +288,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.LongestConsecutiveSequence">
-    <configuration name="LRUCache" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.CoinChange">
+    <configuration name="3Sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCodePy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -303,7 +301,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/top100like/LRUCache.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/top100like/3Sum.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="CoinChange" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="LeetCodePy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/top100like" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/top100like/CoinChange.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -333,27 +352,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="NextPermutation" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="LeetCodePy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/top100like" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/top100like/NextPermutation.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="NumberofIslands" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCodePy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -375,7 +373,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="PalindromicSubstrings" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="TwoSum2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCodePy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -383,11 +381,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/top100like" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/array" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/top100like/PalindromicSubstrings.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/array/TwoSum2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -397,19 +395,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.PalindromicSubstrings" />
-      <item itemvalue="Python.NextPermutation" />
-      <item itemvalue="Python.LRUCache" />
       <item itemvalue="Python.NumberofIslands" />
       <item itemvalue="Python.LongestConsecutiveSequence" />
+      <item itemvalue="Python.3Sum" />
+      <item itemvalue="Python.TwoSum2" />
+      <item itemvalue="Python.CoinChange" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.CoinChange" />
+        <item itemvalue="Python.TwoSum2" />
+        <item itemvalue="Python.3Sum" />
         <item itemvalue="Python.LongestConsecutiveSequence" />
         <item itemvalue="Python.NumberofIslands" />
-        <item itemvalue="Python.LRUCache" />
-        <item itemvalue="Python.NextPermutation" />
-        <item itemvalue="Python.PalindromicSubstrings" />
       </list>
     </recent_temporary>
   </component>
@@ -420,11 +418,11 @@
     <frame x="0" y="23" width="1280" height="777" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2494043" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2494043" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.47545582" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.47545582" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997195" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -527,74 +525,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/top100like/DiameterofBinaryTree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_features.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/others/BuyMasks.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/top100like/PathSum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
-          <folding>
-            <marker date="1580472977408" expanded="true" signature="222:726" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/top100like/PathSumII.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="51" column="18" selection-start-line="51" selection-start-column="18" selection-end-line="51" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/StarredOperator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/yieldTest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="14" lean-forward="true" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
-          <folding>
-            <marker date="1580483937680" expanded="true" signature="315:320" ph="..." />
-            <marker date="1580483937680" expanded="true" signature="724:1143" ph="..." />
-            <marker date="1580483937680" expanded="true" signature="835:935" ph="..." />
-            <marker date="1580483937680" expanded="true" signature="1218:1223" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/top100like/PathSumIII.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/top100like/FindAllNumbersDisappeared.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="30" column="38" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/top100like/MinStack.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -921,6 +851,51 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/top100like/3Sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/TwoSum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="34" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/TwoSum2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linked_list.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/top100like/CoinChange.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/top100like/PalindromeLinkedList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/top100like/LongestConsecutiveSequence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="67" selection-start-line="2" selection-start-column="67" selection-end-line="2" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/top100like/NumberofIslands.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="177">
@@ -928,10 +903,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/top100like/LongestConsecutiveSequence.py">
+    <entry file="file://$PROJECT_DIR$/linked_list/Middle_of_the_LinkedList.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="31" column="46" lean-forward="true" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
+        <state relative-caret-position="117">
+          <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/top100like/Intersection_of_TwoLinkedLists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/top100like/Intersection_of_TwoLinkedLists2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-93">
+          <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
         </state>
       </provider>
     </entry>

@@ -10,6 +10,7 @@ class Solution(object):
         a = nums[lo:mid + 1]
         b = nums[mid + 1:hi + 1]
 
+        # 哨兵
         a.append(float('inf'))
         b.append(float('inf'))
 

@@ -25,15 +25,55 @@ def insert(root, x):
     return root
 
 
-def inorder(root):
+def inorderR(root):
     if not root:
         return
-    inorder(root.left)
+    inorderR(root.left)
     print(root.val, end=' ')
-    inorder(root.right)
+    inorderR(root.right)
+
+
+def inorderTraversal(root):
+    res, stack = [], []
+    p = root
+    while stack or p:
+        if p:
+            stack.append(p)
+            p = p.left
+        else:
+            node = stack.pop()
+            res.append(node.val)
+            p = node.right
+
+    return res
+
+
+def preorderR(root):
+    if not root: return
+
+    print(root.val, end=" ")
+    preorderR(root.left)
+    preorderR(root.right)
+
+
+def preorder(root):
+    stack = []
+    p = root
+    while p or stack:
+        if p:
+            print(p.val, end=" ")
+            stack.append(p)
+            p = p.left
+
+        else:
+            node = stack.pop()
+            p = node.right
 
 
 if __name__ == '__main__':
     root = createBST([5, 3, 1, 4, 7, 6])
+    preorderR(root)
+    print()
+    preorder(root)
+    # inorder(root)
 
-    inorder(root)

@@ -16,7 +16,30 @@
     Runtime: 40 ms, faster than 87.25% of Python online submissions for Delete Leaves With a Given Value.
     Memory Usage: 12.8 MB, less than 100.00% of Python online submissions for Delete Leaves With a Given Value.
 '''
+
+
 class Solution(object):
+    '''
+        简化版本，先处理左右孩子，再处理本身，下面的复杂的写法，也不能算错，只是略显荣誉，但是可以起到剪枝作用
+    '''
+
+    def removeLeafNodes(self, root, target):
+        """
+        :type root: TreeNode
+        :type target: int
+        :rtype: TreeNode
+        """
+        if not root: return None
+
+        root.left = self.removeLeafNodes(root.left, target)
+        root.right = self.removeLeafNodes(root.right, target)
+
+        # root.left == root.right也就是都为空
+        if root.left == root.right and root.val == target:
+            return None
+        else:
+            return root
+
     def removeLeafNodes(self, root, target):
         """
         :type root: TreeNode

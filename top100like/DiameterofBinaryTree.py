@@ -10,6 +10,9 @@
     This path may or may not pass through the root.
 
 
+    @time: 2020-02-18
+    这里就是比较特殊的情况，结果由左右子树拼凑而来，但是返回的时候只返回一个子树。
+
 '''
 class Solution(object):
     def __init__(self):

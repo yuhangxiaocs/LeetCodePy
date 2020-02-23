@@ -38,16 +38,14 @@ class Solution(object):
 
         def insert(word):
             p = self.root
-
             for ch in word:
-                if ch not in p:
-                    p[ch] = {}
+                if ch not in p: p[ch] = {}
                 p = p[ch]
-
             p['#'] = True
 
         for word in words:
             insert(word)
+
         self.res = []
 
         def dfs(p, path):
@@ -62,12 +60,10 @@ class Solution(object):
         maxL = -1
         self.res.sort()
         for i in self.res:
-            maxL = max(maxL,len(i))
+            maxL = max(maxL, len(i))
         for i in self.res:
             if len(i) == maxL:
                 return i
-
-
 
 
 if __name__ == '__main__':

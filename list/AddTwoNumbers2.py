@@ -10,6 +10,9 @@ class ListNode(object):
     把值加到l1上面，用一个pre指针追踪它前面的一个
     
     另外这里的进位处理 不是常用的显式carry 而是都加到一起 每次进入循环的时候得到进位 原理是一样的
+    
+    Runtime: 44 ms, faster than 99.31% of Python online submissions for Add Two Numbers.
+    Memory Usage: 11.8 MB, less than 58.09% of Python online submissions for Add Two Numbers.
 '''
 
 

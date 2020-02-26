@@ -1,5 +1,12 @@
 '''
     given two string, check if one is the permutation of the other
+
+    Solution
+    还是要考虑字符集的 ASCII和Unicode 两种 可以默认是ASCII 但是要和interviewer说明
+
+    1. 排序 和我想的一样
+    2. 比较元素出现次数是否相等 还是和我想的一样 哈哈 不过 它是用数组 感觉还不如我用dictionary呢 因为用dictionary可以忽略字符集
+    用数字的话还得考虑是不是ASCII
 '''
 
 

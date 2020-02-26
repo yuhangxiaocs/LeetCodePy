@@ -42,6 +42,6 @@ if __name__ == '__main__':
     matrix[0][0] = 0
     matrix[2][2] = 0
     matrix[4][4] = 0
-    
+
     print(matrix)
     setMatrixZero(matrix)

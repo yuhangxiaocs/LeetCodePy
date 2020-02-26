@@ -1,6 +1,9 @@
 '''
     replace space with '%20'
     从后往前替换，时间复杂度O(N)
+
+    solution
+    通用解法就是这样 从后往前扫 避免覆盖问题 因此只需要one pass
 '''
 
 

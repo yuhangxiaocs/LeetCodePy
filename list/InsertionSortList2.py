@@ -23,44 +23,29 @@ class Solution(object):
             last = cur
             cur = cur.next
 
-        last, cur = head, head.next
+        cur = head.next
 
         while cur:
 
-            # 有序
-            if cur.val >= last.val:
-                last = cur
-                cur = cur.next
-                continue
+            val = cur.val
 
-            if cur.next:
-                last.next = cur.next
-                pre[cur.next] = last
-            else:
-                last.next = None
-
-            c = p = cur
+            p = cur
             cur = cur.next
 
-            while pre[p].val >= c.val:
+            while pre[p].val > val:
+                p.val = pre[p].val
                 p = pre[p]
 
-            #   pre.pre  pre  p
-
-            pre[p].next = c
-            c.next = p
-
-            pre[c] = pre[p]
-            pre[p] = c
+            p.val = val
 
         return dummy.next
 
 
 if __name__ == '__main__':
-    head = ListNode(1)
+    head = ListNode(4)
     head.next = ListNode(2)
-    head.next.next = ListNode(3)
-    head.next.next.next = ListNode(4)
+    head.next.next = ListNode(1)
+    head.next.next.next = ListNode(3)
 
     x = Solution().insertionSortList(head)
 

@@ -8,21 +8,16 @@ class Solution(object):
             if cur == S:
                 return 1
             return 0
-        # 剪枝
-        # if cur + sum(nums[index:]) < S:
-        #     return 0
-        # if cur - sum(nums[index:]) > S:
-        #     return 0
 
         # 如果已经计算出来
-        if mem[index][cur + 1000] != -999999:
-            return mem[index][cur + 1000]
+        if (index, cur) in mem:
+            return mem[index, cur]
 
         a = self.dfs(nums, index + 1, cur + nums[index], S, mem)
         b = self.dfs(nums, index + 1, cur - nums[index], S, mem)
-        mem[index][cur + 1000] = a + b
+        mem[index, cur] = a + b
 
-        return mem[index][cur + 1000]
+        return mem[index, cur]
 
     def findTargetSumWays(self, nums, S):
         """
@@ -33,7 +28,7 @@ class Solution(object):
         if not nums:
             return None
         # 先列后行
-        mem = [[-999999 for i in range(2001)] for j in range(len(nums))]
+        mem = {}
         # print(mem)
         return self.dfs(nums, 0, 0, S, mem)
 

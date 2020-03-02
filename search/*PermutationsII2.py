@@ -1,7 +1,6 @@
 '''
-    原理参见 Knuth洗牌算法
-
-    区别在于 Knuth只考察一种情况 而这里取所有可能
+    好的思路：
+    https://leetcode.com/problems/permutations-ii/discuss/18602/9-line-python-solution-with-1-line-to-handle-duplication-beat-99-of-others-:-)
 '''
 
 
@@ -15,15 +14,23 @@ class Solution(object):
 
         def shuffle(nums, start, res):
             if start == len(nums):
-                res.append(nums)
+                res.append(nums[:])
                 return
 
             for i in range(start, len(nums)):
-                if i > start and nums[start] == nums[i]: continue
-                # if i > start and nums[i] == nums[i - 1]: continue
+                flag = False
+                j = i
+                while j > start:
+
+                    if nums[j] == nums[start]:
+                        flag = True
+                        break
+                    j -= 1
+
+                if flag: continue
 
                 nums[start], nums[i] = nums[i], nums[start]
-                shuffle(nums[:], start + 1, res)
+                shuffle(nums, start + 1, res)
                 nums[start], nums[i] = nums[i], nums[start]
 
         res = []

@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2246ac7a-7b82-4885-b0c7-6819bc008163" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/top100like/LRUCache.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/top100like/LRUCache2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree/draw.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/treeBST/Serialize_and_DeserializeBST.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/treeBST/Serialize_and_DeserializeBinaryTree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree_avl_23_rb/red_black_tree.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,7 +35,7 @@
           <entry key="gitignore" value="3" />
           <entry key="ipynb" value="1" />
           <entry key="md" value="5" />
-          <entry key="py" value="277" />
+          <entry key="py" value="279" />
           <entry key="pyi" value="3" />
           <entry key="txt" value="1" />
         </counts>
@@ -49,7 +44,7 @@
         <counts>
           <entry key="IPNB" value="1" />
           <entry key="PLAIN_TEXT" value="9" />
-          <entry key="Python" value="277" />
+          <entry key="Python" value="279" />
           <entry key="PythonStub" value="3" />
         </counts>
       </usages-collector>
@@ -57,34 +52,20 @@
         <counts>
           <entry key="dummy" value="30" />
           <entry key="md" value="414" />
-          <entry key="py" value="64723" />
+          <entry key="py" value="64743" />
           <entry key="txt" value="101" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="545" />
-          <entry key="Python" value="64723" />
+          <entry key="Python" value="64743" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/top100like/LRUCache.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="10" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/top100like/LRUCache2.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -136,11 +117,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/treeBST/DeleteNode _in_a_BST.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-208">
-              <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+            <state relative-caret-position="285">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tree_avl_23_rb/red_black_tree.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="34" lean-forward="true" selection-start-column="34" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file:///anaconda3/lib/python3.6/collections/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="183">
+              <caret line="72" column="28" selection-start-line="72" selection-start-column="24" selection-end-line="72" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -187,7 +186,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/list/AddTwoNumbers2.py" />
         <option value="$PROJECT_DIR$/list/Swap_Nodes_in_Pairs.py" />
         <option value="$PROJECT_DIR$/list/MergekSortedLists.py" />
         <option value="$PROJECT_DIR$/list/InsertionSortList.py" />
@@ -238,6 +236,7 @@
         <option value="$PROJECT_DIR$/treeBST/Serialize_and_DeserializeBinaryTree.py" />
         <option value="/anaconda3/lib/python3.6/turtle.py" />
         <option value="$PROJECT_DIR$/tree/draw.py" />
+        <option value="$PROJECT_DIR$/tree_avl_23_rb/red_black_tree.py" />
       </list>
     </option>
   </component>
@@ -265,16 +264,6 @@
               <item name="LeetCodePy" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCodePy" type="462c0819:PsiDirectoryNode" />
               <item name="array" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCodePy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCodePy" type="462c0819:PsiDirectoryNode" />
-              <item name="tree" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCodePy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCodePy" type="462c0819:PsiDirectoryNode" />
-              <item name="treeBST" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -597,20 +586,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/realQuestion/2.2Kth_to_last.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/realQuestion/2.3DeleteMiddleNode.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="25" column="21" lean-forward="true" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/realQuestion/2.4Partition.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -925,8 +900,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/treeBST/DeleteNode _in_a_BST.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-208">
-          <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        <state relative-caret-position="285">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree_avl_23_rb/red_black_tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="34" lean-forward="true" selection-start-column="34" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///anaconda3/lib/python3.6/collections/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="72" column="28" selection-start-line="72" selection-start-column="24" selection-end-line="72" selection-end-column="28" />
         </state>
       </provider>
     </entry>

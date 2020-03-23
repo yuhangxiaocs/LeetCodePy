@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2246ac7a-7b82-4885-b0c7-6819bc008163" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/tree_avl_23_rb/red_black_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/others/P_of_Hash_collison.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree_avl_23_rb/RBTree.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tree_avl_23_rb/red_black_tree.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +37,7 @@
           <entry key="gitignore" value="3" />
           <entry key="ipynb" value="1" />
           <entry key="md" value="5" />
-          <entry key="py" value="279" />
+          <entry key="py" value="283" />
           <entry key="pyi" value="3" />
           <entry key="txt" value="1" />
         </counts>
@@ -44,64 +46,28 @@
         <counts>
           <entry key="IPNB" value="1" />
           <entry key="PLAIN_TEXT" value="9" />
-          <entry key="Python" value="279" />
+          <entry key="Python" value="283" />
           <entry key="PythonStub" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="30" />
+          <entry key="dummy" value="36" />
           <entry key="md" value="414" />
-          <entry key="py" value="64743" />
+          <entry key="py" value="67454" />
           <entry key="txt" value="101" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="545" />
-          <entry key="Python" value="64743" />
+          <entry key="PLAIN_TEXT" value="551" />
+          <entry key="Python" value="67454" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/top100like/LRUCache2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/top100like/LRUCache.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/treeBST/Serialize_and_DeserializeBST.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="122">
-              <caret line="28" selection-start-line="28" selection-end-line="35" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/treeBST/Serialize_and_DeserializeBinaryTree.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="69" column="26" lean-forward="true" selection-start-line="69" selection-start-column="26" selection-end-line="69" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tree/draw.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -127,19 +93,68 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tree_avl_23_rb/red_black_tree.py">
+        <entry file="file://$PROJECT_DIR$/tree_avl_23_rb/RBTree.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="34" lean-forward="true" selection-start-column="34" selection-end-column="34" />
+            <state relative-caret-position="1650">
+              <caret line="110" column="8" lean-forward="true" selection-start-line="110" selection-start-column="8" selection-end-line="110" selection-end-column="8" />
+              <folding>
+                <marker date="1584073687118" expanded="true" signature="53:58" ph="..." />
+                <marker date="1584073687118" expanded="true" signature="262:268" ph="..." />
+                <marker date="1584073687118" expanded="true" signature="453:511" ph="..." />
+                <marker date="1584073687118" expanded="true" signature="1012:1147" ph="..." />
+                <marker date="1584073687118" expanded="true" signature="1176:1913" ph="..." />
+                <marker date="1584073687118" expanded="true" signature="2065:2323" ph="..." />
+                <marker date="1584073687118" expanded="true" signature="2407:2426" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/others/P_of_Hash_collison.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="27" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+              <folding>
+                <marker date="1584104562534" expanded="true" signature="87:92" ph="..." />
+                <marker date="1584104562534" expanded="true" signature="87:169" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataStructure/tree/BST.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file:///anaconda3/lib/python3.6/collections/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="183">
               <caret line="72" column="28" selection-start-line="72" selection-start-column="24" selection-end-line="72" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tree/MaximumDepthofBinaryTree.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tree/MinimumDepthofBinaryTree.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="122">
+              <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -186,8 +201,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/list/Swap_Nodes_in_Pairs.py" />
-        <option value="$PROJECT_DIR$/list/MergekSortedLists.py" />
         <option value="$PROJECT_DIR$/list/InsertionSortList.py" />
         <option value="$PROJECT_DIR$/list/InsertionSortList2.py" />
         <option value="$PROJECT_DIR$/list/InsertionSortList3.py" />
@@ -237,6 +250,8 @@
         <option value="/anaconda3/lib/python3.6/turtle.py" />
         <option value="$PROJECT_DIR$/tree/draw.py" />
         <option value="$PROJECT_DIR$/tree_avl_23_rb/red_black_tree.py" />
+        <option value="$PROJECT_DIR$/tree_avl_23_rb/RBTree.py" />
+        <option value="$PROJECT_DIR$/others/P_of_Hash_collison.py" />
       </list>
     </option>
   </component>
@@ -264,6 +279,11 @@
               <item name="LeetCodePy" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCodePy" type="462c0819:PsiDirectoryNode" />
               <item name="array" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCodePy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCodePy" type="462c0819:PsiDirectoryNode" />
+              <item name="others" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -296,7 +316,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.draw">
+  <component name="RunManager" selected="Python.P_of_Hash_collison">
     <configuration name="LeetCodePy" type="JupiterNotebook" factoryName="Jupyter Notebook">
       <module name="LeetCodePy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -314,7 +334,7 @@
       <option name="ipnbPort" value="8888" />
       <method v="2" />
     </configuration>
-    <configuration name="LRUCache2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="P_of_Hash_collison" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCodePy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -322,32 +342,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/top100like" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/others" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/top100like/LRUCache2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="PeekFinder_2D" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="LeetCodePy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/IntroductionToAlgorithms" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/IntroductionToAlgorithms/PeekFinder_2D.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/others/P_of_Hash_collison.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -419,21 +418,42 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="red_black_tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="LeetCodePy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tree_avl_23_rb" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tree_avl_23_rb/RBTree.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Jupyter Notebook.LeetCodePy" />
-      <item itemvalue="Python.PeekFinder_2D" />
-      <item itemvalue="Python.LRUCache2" />
       <item itemvalue="Python.Serialize_and_DeserializeBST" />
       <item itemvalue="Python.Serialize_and_DeserializeBinaryTree" />
       <item itemvalue="Python.draw" />
+      <item itemvalue="Python.red_black_tree" />
+      <item itemvalue="Python.P_of_Hash_collison" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.P_of_Hash_collison" />
+        <item itemvalue="Python.red_black_tree" />
         <item itemvalue="Python.draw" />
         <item itemvalue="Python.Serialize_and_DeserializeBinaryTree" />
         <item itemvalue="Python.Serialize_and_DeserializeBST" />
-        <item itemvalue="Python.LRUCache2" />
-        <item itemvalue="Python.PeekFinder_2D" />
       </list>
     </recent_temporary>
   </component>
@@ -442,14 +462,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2494043" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32959327" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.13183731" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.21037868" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.26928473" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.43197757" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -586,34 +605,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/realQuestion/2.4Partition.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/realQuestion/2.5SumOf.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/realQuestion/2.6Palidrome.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/realQuestion/2.7Intersection.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/realQuestion/2.8LoopDetection.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -905,17 +896,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tree_avl_23_rb/red_black_tree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="34" lean-forward="true" selection-start-column="34" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///anaconda3/lib/python3.6/collections/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="183">
           <caret line="72" column="28" selection-start-line="72" selection-start-column="24" selection-end-line="72" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree/MaximumDepthofBinaryTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree/MinimumDepthofBinaryTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructure/tree/BST.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree_avl_23_rb/RBTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1650">
+          <caret line="110" column="8" lean-forward="true" selection-start-line="110" selection-start-column="8" selection-end-line="110" selection-end-column="8" />
+          <folding>
+            <marker date="1584073687118" expanded="true" signature="53:58" ph="..." />
+            <marker date="1584073687118" expanded="true" signature="262:268" ph="..." />
+            <marker date="1584073687118" expanded="true" signature="453:511" ph="..." />
+            <marker date="1584073687118" expanded="true" signature="1012:1147" ph="..." />
+            <marker date="1584073687118" expanded="true" signature="1176:1913" ph="..." />
+            <marker date="1584073687118" expanded="true" signature="2065:2323" ph="..." />
+            <marker date="1584073687118" expanded="true" signature="2407:2426" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/others/P_of_Hash_collison.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="27" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+          <folding>
+            <marker date="1584104562534" expanded="true" signature="87:92" ph="..." />
+            <marker date="1584104562534" expanded="true" signature="87:169" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>

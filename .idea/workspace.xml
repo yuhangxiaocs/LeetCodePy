@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2246ac7a-7b82-4885-b0c7-6819bc008163" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/others/P_of_Hash_collison.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree_avl_23_rb/RBTree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binary_search/BinarySearchStandard.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tree_avl_23_rb/red_black_tree.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +35,7 @@
           <entry key="gitignore" value="3" />
           <entry key="ipynb" value="1" />
           <entry key="md" value="5" />
-          <entry key="py" value="283" />
+          <entry key="py" value="286" />
           <entry key="pyi" value="3" />
           <entry key="txt" value="1" />
         </counts>
@@ -46,7 +44,7 @@
         <counts>
           <entry key="IPNB" value="1" />
           <entry key="PLAIN_TEXT" value="9" />
-          <entry key="Python" value="283" />
+          <entry key="Python" value="286" />
           <entry key="PythonStub" value="3" />
         </counts>
       </usages-collector>
@@ -54,35 +52,20 @@
         <counts>
           <entry key="dummy" value="36" />
           <entry key="md" value="414" />
-          <entry key="py" value="67454" />
+          <entry key="py" value="67796" />
           <entry key="txt" value="101" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="551" />
-          <entry key="Python" value="67454" />
+          <entry key="Python" value="67796" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tree/draw.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
-              <caret line="72" column="18" lean-forward="true" selection-start-line="72" selection-start-column="18" selection-end-line="72" selection-end-column="18" />
-              <folding>
-                <element signature="e#0#20#0" expanded="true" />
-                <marker date="1583939166170" expanded="true" signature="144:864" ph="..." />
-                <marker date="1583939166170" expanded="true" signature="1118:1123" ph="..." />
-                <marker date="1583939166170" expanded="true" signature="1118:1170" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/treeBST/DeleteNode _in_a_BST.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -110,7 +93,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/others/P_of_Hash_collison.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
@@ -118,6 +101,32 @@
               <folding>
                 <marker date="1584104562534" expanded="true" signature="87:92" ph="..." />
                 <marker date="1584104562534" expanded="true" signature="87:169" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/binary_search/FindInsertPosition.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/binary_search/FindFirst_and_Last Position_of _Element_in_SortedArray.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/binary_search/BinarySearchStandard.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <marker date="1585063828252" expanded="true" signature="86:91" ph="..." />
               </folding>
             </state>
           </provider>
@@ -159,20 +168,6 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file:///anaconda3/lib/python3.6/turtle.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="144" column="9" selection-start-line="144" selection-start-column="2" selection-end-line="144" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tree/Leaf-SimilarTrees.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -201,8 +196,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/list/InsertionSortList.py" />
-        <option value="$PROJECT_DIR$/list/InsertionSortList2.py" />
         <option value="$PROJECT_DIR$/list/InsertionSortList3.py" />
         <option value="$PROJECT_DIR$/list/DesignLinkedList.py" />
         <option value="$PROJECT_DIR$/realQuestion/2.1RemoveDups.py" />
@@ -252,6 +245,8 @@
         <option value="$PROJECT_DIR$/tree_avl_23_rb/red_black_tree.py" />
         <option value="$PROJECT_DIR$/tree_avl_23_rb/RBTree.py" />
         <option value="$PROJECT_DIR$/others/P_of_Hash_collison.py" />
+        <option value="$PROJECT_DIR$/binary_search/FindInsertPosition.py" />
+        <option value="$PROJECT_DIR$/binary_search/BinarySearchStandard.py" />
       </list>
     </option>
   </component>
@@ -278,7 +273,7 @@
             <path>
               <item name="LeetCodePy" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCodePy" type="462c0819:PsiDirectoryNode" />
-              <item name="array" type="462c0819:PsiDirectoryNode" />
+              <item name="binary_search" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCodePy" type="b2602c69:ProjectViewProjectNode" />
@@ -316,7 +311,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.P_of_Hash_collison">
+  <component name="RunManager" selected="Python.BinarySearchStandard">
     <configuration name="LeetCodePy" type="JupiterNotebook" factoryName="Jupyter Notebook">
       <module name="LeetCodePy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -334,6 +329,27 @@
       <option name="ipnbPort" value="8888" />
       <method v="2" />
     </configuration>
+    <configuration name="BinarySearchStandard" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="LeetCodePy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/binary_search" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/binary_search/BinarySearchStandard.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="P_of_Hash_collison" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCodePy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -347,27 +363,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/others/P_of_Hash_collison.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Serialize_and_DeserializeBST" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="LeetCodePy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/treeBST" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/treeBST/Serialize_and_DeserializeBST.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -441,19 +436,19 @@
     </configuration>
     <list>
       <item itemvalue="Jupyter Notebook.LeetCodePy" />
-      <item itemvalue="Python.Serialize_and_DeserializeBST" />
       <item itemvalue="Python.Serialize_and_DeserializeBinaryTree" />
       <item itemvalue="Python.draw" />
       <item itemvalue="Python.red_black_tree" />
       <item itemvalue="Python.P_of_Hash_collison" />
+      <item itemvalue="Python.BinarySearchStandard" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.BinarySearchStandard" />
         <item itemvalue="Python.P_of_Hash_collison" />
         <item itemvalue="Python.red_black_tree" />
         <item itemvalue="Python.draw" />
         <item itemvalue="Python.Serialize_and_DeserializeBinaryTree" />
-        <item itemvalue="Python.Serialize_and_DeserializeBST" />
       </list>
     </recent_temporary>
   </component>
@@ -463,12 +458,12 @@
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2494043" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2494043" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32959327" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.26928473" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.43197757" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26928473" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.43197757" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -601,27 +596,15 @@
           <line>70</line>
           <option name="timeStamp" value="24" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/binary_search/BinarySearchStandard.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/realQuestion/2.8LoopDetection.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/search/LetterCombinations_of_a_PhoneNumber.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/search/CombinationSum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="22" column="16" lean-forward="true" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/top100like/TargetSum3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -947,6 +930,26 @@
           <folding>
             <marker date="1584104562534" expanded="true" signature="87:92" ph="..." />
             <marker date="1584104562534" expanded="true" signature="87:169" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/binary_search/FindInsertPosition.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/binary_search/FindFirst_and_Last Position_of _Element_in_SortedArray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/binary_search/BinarySearchStandard.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <marker date="1585063828252" expanded="true" signature="86:91" ph="..." />
           </folding>
         </state>
       </provider>

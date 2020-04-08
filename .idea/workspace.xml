@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2246ac7a-7b82-4885-b0c7-6819bc008163" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/binary_search/BinarySearchStandard.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/binary_search/FindFirst_and_Last Position_of _Element_in_SortedArray.py" beforeDir="false" afterPath="$PROJECT_DIR$/binary_search/FindFirst_and_Last Position_of _Element_in_SortedArray.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/binary_search/FindInsertPosition.py" beforeDir="false" afterPath="$PROJECT_DIR$/binary_search/FindInsertPosition.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,7 +15,7 @@
     <session id="1305717701">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="12" />
+          <entry key="project.closed" value="13" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.11" value="1" />
@@ -52,14 +52,14 @@
         <counts>
           <entry key="dummy" value="36" />
           <entry key="md" value="414" />
-          <entry key="py" value="67796" />
+          <entry key="py" value="67837" />
           <entry key="txt" value="101" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="551" />
-          <entry key="Python" value="67796" />
+          <entry key="Python" value="67837" />
         </counts>
       </usages-collector>
     </session>
@@ -108,23 +108,27 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/binary_search/FindInsertPosition.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/binary_search/FindFirst_and_Last Position_of _Element_in_SortedArray.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+            <state relative-caret-position="270">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/binary_search/FindFirst_and_Last Position_of _Element_in_SortedArray.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/binary_search/BinarySearchStandard.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="104">
+              <caret line="7" column="30" lean-forward="true" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
               <folding>
                 <marker date="1585063828252" expanded="true" signature="86:91" ph="..." />
               </folding>
@@ -196,7 +200,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/list/InsertionSortList3.py" />
         <option value="$PROJECT_DIR$/list/DesignLinkedList.py" />
         <option value="$PROJECT_DIR$/realQuestion/2.1RemoveDups.py" />
         <option value="$PROJECT_DIR$/list/RemoveDuplicates_from_SortedList.py" />
@@ -245,8 +248,9 @@
         <option value="$PROJECT_DIR$/tree_avl_23_rb/red_black_tree.py" />
         <option value="$PROJECT_DIR$/tree_avl_23_rb/RBTree.py" />
         <option value="$PROJECT_DIR$/others/P_of_Hash_collison.py" />
-        <option value="$PROJECT_DIR$/binary_search/FindInsertPosition.py" />
         <option value="$PROJECT_DIR$/binary_search/BinarySearchStandard.py" />
+        <option value="$PROJECT_DIR$/binary_search/FindInsertPosition.py" />
+        <option value="$PROJECT_DIR$/binary_search/FindFirst_and_Last Position_of _Element_in_SortedArray.py" />
       </list>
     </option>
   </component>
@@ -457,13 +461,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2494043" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2494043" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32959327" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.26928473" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.43197757" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.43197757" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -934,23 +939,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/binary_search/FindInsertPosition.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/binary_search/FindFirst_and_Last Position_of _Element_in_SortedArray.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/binary_search/BinarySearchStandard.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="104">
+          <caret line="7" column="30" lean-forward="true" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
           <folding>
             <marker date="1585063828252" expanded="true" signature="86:91" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/binary_search/FindInsertPosition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/binary_search/FindFirst_and_Last Position_of _Element_in_SortedArray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>

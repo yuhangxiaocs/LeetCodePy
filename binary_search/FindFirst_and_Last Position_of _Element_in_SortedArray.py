@@ -6,22 +6,24 @@ class Solution(object):
         :rtype: List[int]
         """
         if not nums: return [-1, -1]
-        lo, hi = 0, len(nums)-1
+        lo, hi = 0, len(nums) - 1
         reslo = reshi = -1
         while lo <= hi:
-            mid = (lo + hi)//2
+            mid = (lo + hi) // 2
             if target <= nums[mid]:
                 hi = mid - 1
-            elif target > nums[mid] :
+            elif target > nums[mid]:
                 lo = mid + 1
-                
+
         reslo = lo
-        lo, hi = 0, len(nums)-1
+
+
+        lo, hi = 0, len(nums) - 1
         while lo <= hi:
-            mid = (lo + hi)//2
+            mid = (lo + hi) // 2
             if target < nums[mid]:
                 hi = mid - 1
             elif target >= nums[mid]:
-                lo = mid + 1        
-        reshi = hi        
+                lo = mid + 1
+        reshi = hi
         return [reslo, reshi] if reslo <= reshi else [-1, -1]

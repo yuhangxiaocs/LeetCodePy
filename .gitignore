@@ -63,3 +63,4 @@
 # idea 配置
 *.iml
 *.xml
+.idea

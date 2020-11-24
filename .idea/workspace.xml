@@ -19,26 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2246ac7a-7b82-4885-b0c7-6819bc008163" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/data/prepareData.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dp/LCS_iteration.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/greedy/DeleteColumnstoMakeSorted.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/greedy/EvenOdd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/greedy/FindValidMatrixGivenRowandColumnSums.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/greedy/LargestSumAfterKNegations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/greedy/MinimumAddtoMakeParenthesesValid.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/greedy/PartitionLabels.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/greedy/QueueReconstructionbyHeight.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/greedy/ScoreAfterFlippingMatrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/greedy/WaterBottles.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/sort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/LeetCodePy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LeetCodePy.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/binary_search/FindFirst_and_Last Position_of _Element_in_SortedArray.py" beforeDir="false" afterPath="$PROJECT_DIR$/binary_search/FindFirst_and_Last Position_of _Element_in_SortedArray.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dp/LCS_memorization.py" beforeDir="false" afterPath="$PROJECT_DIR$/dp/LCS_memorization.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tree_avl_23_rb/RBTree.py" beforeDir="false" afterPath="$PROJECT_DIR$/tree_avl_23_rb/RBTree.py" afterDir="false" />
-    </list>
+    <list default="true" id="2246ac7a-7b82-4885-b0c7-6819bc008163" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -252,7 +233,7 @@
       <option name="presentableId" value="Default" />
       <updated>1605947248274</updated>
       <workItem from="1605947251047" duration="3151000" />
-      <workItem from="1606102629265" duration="10283000" />
+      <workItem from="1606102629265" duration="10501000" />
     </task>
     <servers />
   </component>
@@ -285,29 +266,33 @@
     <option name="LAST_COMMIT_MESSAGE" value="stack and queue" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="440" y="270" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606236842169">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="440" y="270" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877@0.23.1440.877" timestamp="1606236842169" />
     <state x="508" y="223" key="FileChooserDialogImpl" timestamp="1605947279501">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="508" y="223" key="FileChooserDialogImpl/0.23.1440.877@0.23.1440.877" timestamp="1605947279501" />
-    <state width="1878" height="448" key="GridCell.Tab.0.bottom" timestamp="1606128089081">
-      <screen x="0" y="23" width="1920" height="1057" />
+    <state width="1398" height="217" key="GridCell.Tab.0.bottom" timestamp="1606236661463">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="182" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1605953792921" />
+    <state width="1398" height="217" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1606236661463" />
     <state width="1878" height="448" key="GridCell.Tab.0.bottom/191.1103.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1606128089081" />
-    <state width="1878" height="448" key="GridCell.Tab.0.center" timestamp="1606128089080">
-      <screen x="0" y="23" width="1920" height="1057" />
+    <state width="1398" height="217" key="GridCell.Tab.0.center" timestamp="1606236661462">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="182" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1605953792920" />
+    <state width="1398" height="217" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1606236661462" />
     <state width="1878" height="448" key="GridCell.Tab.0.center/191.1103.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1606128089080" />
-    <state width="1878" height="448" key="GridCell.Tab.0.left" timestamp="1606128089079">
-      <screen x="0" y="23" width="1920" height="1057" />
+    <state width="1398" height="217" key="GridCell.Tab.0.left" timestamp="1606236661461">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="182" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1605953792920" />
+    <state width="1398" height="217" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1606236661461" />
     <state width="1878" height="448" key="GridCell.Tab.0.left/191.1103.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1606128089079" />
-    <state width="1878" height="448" key="GridCell.Tab.0.right" timestamp="1606128089080">
-      <screen x="0" y="23" width="1920" height="1057" />
+    <state width="1398" height="217" key="GridCell.Tab.0.right" timestamp="1606236661463">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="182" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1605953792921" />
+    <state width="1398" height="217" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1606236661463" />
     <state width="1878" height="448" key="GridCell.Tab.0.right/191.1103.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1606128089080" />
     <state x="221" y="100" key="SettingsEditor" timestamp="1605947485430">
       <screen x="0" y="23" width="1440" height="877" />

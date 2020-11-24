@@ -1,4 +1,7 @@
 import random
+/*
+ * 红黑树
+ */
 
 RED = True
 BLACK = False

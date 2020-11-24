@@ -33,54 +33,7 @@ class Solution(object):
 # 这个版本是参考一个YouTube的思路 它的想法很“笨” 但绝对不会错，那就是在每次mid==target的时候更新一个flag变量
 # 这样就可以让你忽略下标+1还是-1的问题，你只要确保不会miss中间的，以及循环可以正确退出即可
 
-class Solution {
-    public int[] searchRange(int[] nums, int target) {
-        int[] res = new int[2];
-        res[0] = findStarting(nums, target);
-        res[1] = findEnding(nums, target);
-        return res;
-    }
-    
-    public int findStarting(int[] nums, int target){
-        int lo = 0;
-        int hi = nums.length - 1;
-        int index = -1;
-        while (lo <= hi){
-            int mid = lo + (hi - lo) / 2;
-            if (nums[mid] >= target)
-                hi = mid - 1;
-            else
-                lo = mid + 1;
-                
-            if(nums[mid] == target)
-                index = mid;
-            
-        }
-        
-        
-        return index;
-    }
-    
-    public int findEnding(int[] nums, int target){
-        int lo = 0;
-        int hi = nums.length - 1;
-        int index = -1;
-        while (lo <= hi){
-            int mid = lo + (hi - lo) / 2;
-            if (nums[mid] > target)
-                hi = mid - 1;
-            else
-                lo = mid + 1;
-                
-            if(nums[mid] == target)
-                index = mid;
-            
-        }
-        
-        return index;
-        
-    }
-}
+
 
 # personally the best version
 
